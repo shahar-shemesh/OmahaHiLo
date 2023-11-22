@@ -1,0 +1,12 @@
+HandA:Ac-Kd-Jd-3d HandB:5c-5d-6c-7d Board:Ah-Kh-5s-2s-Qd
+=> HandB wins Hi (3-of-a-Kind);   => HandB wins Lo (7652A)
+
+HandA:Ac-Kd-Jd-3d HandB:5c-5d-6c-6d Board:Ad-Kh-5s-2d-Qd
+=> HandA wins Hi (Flush);   => No hand qualified for Low
+
+HandA:Qc-Jd-Td-3d HandB:Tc-Jc-8h-6d Board:Ad-Kh-Qs-2d-3c
+=> Split Pot Hi (Straight);   => HandB wins Lo (8632A)
+
+HandA:Qh-4d-Tc-8s HandB:Qc-8c-7d-2h Board:Ad-As-3c-3d-5d
+=> HandA wins Hi (One Pair);   => HandB wins Lo (7532A)
+
